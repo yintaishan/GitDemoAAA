@@ -10,12 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //branch01 分支 修改01
-        //branch01 分支 修改02
-        //branch01 分支 修改03
-        //branch01 分支 修改04
-        //branch01 分支 接着修改01
-        //branch01 分支 接着修改02
 
     }
 }
