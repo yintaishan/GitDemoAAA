@@ -9,5 +9,11 @@ public class Main2Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
+
+
+        //  tarzan2010 用户也更改 消息01 （有冲突）
+
+
+
     }
 }
