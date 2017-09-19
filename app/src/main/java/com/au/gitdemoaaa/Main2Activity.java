@@ -11,10 +11,8 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
 
 
-        //  tarzan2010 用户也更改 消息01 （有冲突）
-        //  tarzan2010 用户也更改 消息02 （有冲突）
-
-
+        //yintaishan 用户  提交更改  01
+        //yintaishan 用户  提交更改  02
 
     }
 }
