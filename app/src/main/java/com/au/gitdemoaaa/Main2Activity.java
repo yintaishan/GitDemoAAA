@@ -12,6 +12,7 @@ public class Main2Activity extends AppCompatActivity {
 
 
         //  tarzan2010 用户也更改 消息01 （有冲突）
+        //  tarzan2010 用户也更改 消息02 （有冲突）
 
 
 
