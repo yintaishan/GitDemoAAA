@@ -10,16 +10,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //taishan1_branch 分支修改内容 01
-        //taishan1_branch 分支修改内容 02
-
-        // dev 分支 增加内容 01
-        // dev 分支 增加内容 02
-        // dev 分支 增加内容 03
-        // dev 分支 增加内容 04
-
-        // dev 分支 增加内容 05
-
-        // master 分支提交内容
     }
 }
